@@ -1,6 +1,6 @@
 # 🧾 Orçamento Imobiliário — Versão CSV (Formatada)
 
-Aplicação em **Python** (arquivo único) que calcula o aluguel conforme regras de negócio e **gera um CSV (.xlsx) formatado**, incluindo **Corretor** e **Cliente** no topo do relatório.
+Aplicação em **Python** (arquivo único) que calcula o aluguel conforme regras de negócio e **gera um CSV formatado**, incluindo **Corretor** e **Cliente** no topo do relatório.
 
 ---
 
